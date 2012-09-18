@@ -1,0 +1,6 @@
+name: BookThingy
+version: 1.0
+main: com.xxmicloxx.bookthingy.BookThingy
+commands:
+    book:
+        description: General Command for BookThingy
